@@ -87,10 +87,10 @@ cannibal_trait_desc;[Root.GetFirstName] likes to eat the flesh of sapient beings
 cartographer;Cartographer;;;;;;;;;;;;;x
 cartographer_desc;A cartographer is a type of artist who creates intricate drawings and paintings of the lands and realms about them, both fictional and otherwise.;;;;;;;;;;;;;x
 charitable;Charitable;;;;;;;;;;;;;x
-chicken_loc;Chicken;;;;;;;;;;;;;x
-craven_loc;Craven;;;;;;;;;;;;;x
-craven_loc_desc;[Root.GetFirstName] is a craven and a coward.;;;;;;;;;;;;;x
-chicken_loc_desc;[Root.GetFirstName] is a big chicken!;;;;;;;;;;;;;x
+chicken;Chicken;;;;;;;;;;;;;x
+craven;Craven;;;;;;;;;;;;;x
+craven_desc;[Root.GetFirstName] is a craven and a coward.;;;;;;;;;;;;;x
+chicken_desc;[Root.GetFirstName] is a big chicken!;;;;;;;;;;;;;x
 charitable_desc;[Root.GetFirstName] is famously charitable. Charity will please the priests and is a most chivalrous trait.;;;;;;;;;;;;;x
 chaste;Chaste;;;;;;;;;;;;;x
 chaste_desc;[Root.GetFirstName] has taken an oath of chastity. Chaste characters are admired for their virtue and are unlikely to have extramarital affairs.;;;;;;;;;;;;;x
