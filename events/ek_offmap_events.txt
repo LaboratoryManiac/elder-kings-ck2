@@ -490,7 +490,6 @@ character_event = {
 			limit = {
 				any_courtier = {
 					prisoner = yes
-					is_adult = yes
 					NOT = { is_heir = yes }
 					NOT = { has_character_flag = he_ded }
 					NOT = { has_character_flag = saved_from_mass_sacrifice }
@@ -509,7 +508,6 @@ character_event = {
 			random_courtier = {
 				limit = {
 					prisoner = yes
-					is_adult = yes
 					NOT = { is_heir = yes }
 					NOT = { has_character_flag = he_ded }
 					NOT = { has_character_flag = saved_from_mass_sacrifice }

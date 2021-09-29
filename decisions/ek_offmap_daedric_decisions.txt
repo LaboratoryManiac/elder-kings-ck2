@@ -697,7 +697,6 @@ offmap_decisions = {
 			FROMFROM = {
 				show_scope_change = no
 				prisoner = yes
-				is_adult = yes
 				NOT = { is_heir = yes }
 				NOT = { has_character_flag = he_ded }
 			}
@@ -1446,7 +1445,6 @@ offmap_decisions = {
 			
 			any_courtier = {
 				prisoner = yes
-				is_adult = yes
 				NOT = { is_heir = yes }
 				NOT = { has_character_flag = he_ded }
 				NOT = { has_character_flag = saved_from_mass_sacrifice }
